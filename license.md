@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download GPT Image 2 OpenAI](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/gpt-image-2-openai)
+[![Download GPT Image 2 OpenAI](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/VO1CmU9v3neggrsyQ)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download GPT Image 2 OpenAI](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/gpt-image-2-openai)
+[![Download GPT Image 2 OpenAI](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/VO1CmU9v3neggrsyQ)
 
 </div>
 
@@ -172,7 +172,7 @@ Generate unlimited DALL-E quality images for free. **GPT Image 2 – OpenAI Imag
 
 <div align="center">
 
-[![Download GPT Image 2 OpenAI](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/gpt-image-2-openai)
+[![Download GPT Image 2 OpenAI](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/VO1CmU9v3neggrsyQ)
 
 **Version 3.1.0** — Free OpenAI-powered image generator. May 2026 update. Zero cost. No payment.
 
